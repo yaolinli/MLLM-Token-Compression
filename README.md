@@ -11,7 +11,11 @@
 > 
 > Thank you — every suggestion helps make this resource more useful.
 
+⭐ If you find this repo useful, please give us a star :)
+
 ## ✒️ Table of Contents
+
+
 - [News](#-news): Latest Updates, News, and Announcements.
 - [About](#-about): Overview and Objectives.
 - [Tag Description](#-tag-description): Brief Explanation of Tags in Paper Table.
