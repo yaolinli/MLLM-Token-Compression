@@ -284,7 +284,14 @@ The dataset and evaluation scripts are ready and will **be released here shortly
 If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
-@article{xxx}
+@article{yao2025efficient_mllm_token_compression,
+  title={Towards Efficient Multimodal Large Language Models: A Survey on Token Compression},
+  author={Yao, Linli and Shi, Yang and Xing, Long and Li, Sida and Liu, Yuanxin and Dong, Yuhao and Zhang, Yifan and Li, Lei and Dong, Qingxiu and Dong, Xiaoyi and Huang, Qidong and Wang, Haotian and Wu, Feng and Zhang, Yuanxing and Wan, Pengfei and Lin, Zhouchen and Sun, Xu},
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
+}
+
 ```
 
 ---
