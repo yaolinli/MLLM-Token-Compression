@@ -1,5 +1,7 @@
 # Towards Efficient Multimodal Large Language Models: A Survey on Token Compression
 
+<img width="1292" height="616" alt="截屏2025-11-26 18 08 22" src="https://github.com/user-attachments/assets/b552ed71-902b-48a2-ae67-8323c335a793" />
+
 > **📢 Contributions Welcome**
 >
 > We appreciate contributions that help improve this repository and the accompanying paper. Please feel free to submit a [pull request](https://github.com/DuHeng0128/Awesome-Token-Compression/pulls) to:
@@ -290,5 +292,6 @@ If you find our paper or this resource helpful, please consider cite:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
