@@ -26,7 +26,8 @@
 - [Citation](#-citation): If you find this helpful, please consider citing us.
 
 ## 🔥 News
-- **[2025.11.26]** We've released the repository! The first version of survey will be published soon. 🎉🎉
+- **[2025.12.18]** We've released the [first version (v1.0)](https://github.com/yaolinli/MLLM-Token-Compression/blob/main/Towards%20Efficient%20Multimodal%20Large%20Language%20Models%20-%20A%20Survey%20on%20Token%20Compression%20-%20v2512.pdf) of the survey, which can be downloaded [here](https://github.com/yaolinli/MLLM-Token-Compression/releases/download/v1.0_2512/Towards.Efficient.Multimodal.Large.Language.Models.-.A.Survey.on.Token.Compression.-.v2512.pdf).
+- **[2025.11.26]** We've released the repository! 
 
 ## ☀️ About
 Multimodal Large Language Models (MLLMs) are rapidly expanding their capabilities, but high-resolution images and long videos create extremely long visual-token streams that dramatically increase compute, memory, and latency requirements. This repository accompanies our survey on **Towards Efficient Multimodal Large Language Models: A Survey on Token Compression** ([Techriv]()) to help researchers and practitioners navigate this field.
