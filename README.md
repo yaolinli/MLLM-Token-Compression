@@ -26,7 +26,7 @@
 - [Citation](#-citation): If you find this helpful, please consider citing us.
 
 ## 🔥 News
-- **[2025.12.18]** We've released the [first version (v1.0)](https://github.com/yaolinli/MLLM-Token-Compression/blob/main/Towards%20Efficient%20Multimodal%20Large%20Language%20Models%20-%20A%20Survey%20on%20Token%20Compression%20-%20v2512.pdf) of the survey, which can be downloaded [here](https://github.com/yaolinli/MLLM-Token-Compression/releases/download/v1.0_2512/Towards.Efficient.Multimodal.Large.Language.Models.-.A.Survey.on.Token.Compression.-.v2512.pdf).
+- **[2025.12.18]** We've released the [first version (v1.0)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176823010.07236701/v1) of the survey, which can be downloaded [here](https://github.com/yaolinli/MLLM-Token-Compression/releases/download/v1.0_2512/Towards.Efficient.Multimodal.Large.Language.Models.-.A.Survey.on.Token.Compression.-.v2512.pdf).
 - **[2025.11.26]** We've released the repository! 
 
 ## ☀️ About
@@ -285,12 +285,14 @@ The dataset and evaluation scripts are ready and will **be released here shortly
 If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
-@article{yao2025efficient_mllm_token_compression,
+@article{yao2026survey,
   title={Towards Efficient Multimodal Large Language Models: A Survey on Token Compression},
-  author={Yao, Linli and Shi, Yang and Xing, Long and Li, Sida and Liu, Yuanxin and Dong, Yuhao and Zhang, Yifan and Li, Lei and Dong, Qingxiu and Dong, Xiaoyi and Huang, Qidong and Wang, Haotian and Wu, Feng and Zhang, Yuanxing and Wan, Pengfei and Lin, Zhouchen and Sun, Xu},
-  journal={Authorea Preprints},
-  year={2025},
-  publisher={Authorea}
+  author={Yao, Linli and Xing, Long and Shi, Yang and others},
+  journal={TechRxiv},
+  year={2026},
+  month={jan},
+  day={12},
+  doi={10.36227/techrxiv.176823010.07236701/v1}
 }
 
 ```
@@ -303,3 +305,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ---
+
