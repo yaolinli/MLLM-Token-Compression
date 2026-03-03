@@ -8,12 +8,12 @@
 ## Tag 规则
 
 ### 会议/来源 Badge
-- 已发表：`[![PDF](https://img.shields.io/badge/会议名-年份-blue)]()`（如 CVPR-2026, ICML-2026, NeurIPS-2025）
+- 已发表：`[![PDF](https://img.shields.io/badge/会议名-年份-blue)]()`（如 CVPR-2026, NeurIPS-2025）
 - 仅 arXiv：`[![arXiv](https://img.shields.io/badge/arXiv-年份-red)]()`
+- ⚠️ **标注会议必须反复确认！** 很多论文只是用了会议模板（如 ICML 模板），不代表被接收。只有明确公开录用信息的才能标会议 badge，否则一律标 arXiv。不要给别人"手动中稿"
 
 ### Modality (purple)
-- Image / Video（目前只有这两个）
-- Audio 模态暂未加入 tag 体系
+- Image / Video / Audio
 
 ### Compression Position (cyan)
 - Vision_Encoder / Projector / LLM / ViT
