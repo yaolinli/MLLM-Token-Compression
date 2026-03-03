@@ -41,8 +41,9 @@
 - 除非论文特别区分训练/推理场景，否则不加这个 tag
 
 ## 排序
-- 按年份降序排列（最新在前）
-- 同年内按月份降序
+- **以 arXiv 第一版（v1）发布日期降序排列**，越新的越靠上
+- 具体排序依据：arXiv ID 数字越大 = 发布越晚 = 放越上面
+- 例：2602.23235 > 2602.18846 > 2602.04804，所以 23235 在最上面
 
 ## 其他
 - GitHub Stars badge 用 `[![Star](https://img.shields.io/github/stars/org/repo.svg?style=social&label=Star)]()`
