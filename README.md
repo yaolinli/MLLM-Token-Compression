@@ -360,6 +360,12 @@ If you find our paper or this resource helpful, please consider cite:
 
 ---
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yaolinli/MLLM-Token-Compression&type=Date)](https://star-history.com/#yaolinli/MLLM-Token-Compression&Date)
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
