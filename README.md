@@ -360,16 +360,18 @@ The dataset and evaluation scripts are ready and will **be released here shortly
 If you find our paper or this resource helpful, please consider cite:
 
 ```bibtex
-@article{yao2026survey,
-  title={Towards Efficient Multimodal Large Language Models: A Survey on Token Compression},
-  author={Yao, Linli and Xing, Long and Shi, Yang and others},
-  journal={TechRxiv},
-  year={2026},
-  month={jan},
-  day={12},
-  doi={10.36227/techrxiv.176823010.07236701/v1}
+@misc{yao2026towards,
+  title        = {Towards Efficient Multimodal Large Language Models: A Survey on Token Compression},
+  author       = {Yao, Linli and Xing, Long and Shi, Yang and Li, Sida and Liu, Yuanxin and
+                  Dong, Yuhao and Zhang, Yi-Fan and Li, Lei and Dong, Qingxiu and Dong, Xiaoyi and
+                  Huang, Qidong and Wang, Haotian and Wu, Feng and Zhang, Yuanxing and Wan, Pengfei and
+                  Lin, Zhouchen and Sun, Xu},
+  year         = {2026},
+  month        = jan,
+  howpublished = {TechRxiv},
+  doi          = {10.36227/techrxiv.176823010.07236701/v1},
+  url          = {https://doi.org/10.36227/techrxiv.176823010.07236701/v1}
 }
-
 ```
 
 ---
