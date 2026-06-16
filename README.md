@@ -4,7 +4,7 @@
 
 > **📢 Contributions Welcome**
 >
-> We appreciate contributions that help improve this repository and the accompanying paper. Please feel free to submit a [pull request](https://github.com/DuHeng0128/Awesome-Token-Compression/pulls) to:
+> We appreciate contributions that help improve this repository and the accompanying paper. Please feel free to submit a [pull request](https://github.com/yaolinli/MLLM-Token-Compression/pulls) to:
 > 1. Add a missing or relevant paper.
 > 2. Propose a more suitable category or tag.
 > 3. Update or correct information (links, metadata, status).
