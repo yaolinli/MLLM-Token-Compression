@@ -14,6 +14,8 @@
 
 ### Modality (purple)
 - Image / Video / Audio
+- Modality & Position 列以 badge 为主；通用 image/video/omni understanding 不添加额外文字。
+- 特殊场景可简短标注 `GUI screenshots`、`Multi-view 3D` 等，不在此列解释方法、训练方式或实现细节。
 
 ### Compression Position (cyan)
 - Vision_Encoder / Projector / LLM / ViT
