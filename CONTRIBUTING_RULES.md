@@ -56,6 +56,7 @@
 - ⚠️ 不是纯字符串排序！2603.01143 比 2602.23235 新，因为 3月 > 2月
 
 ## 其他
+- Title & Authors 列保留论文标题和作者，不添加 `Team: ...` 团队信息，保持现有列表格式。
 - GitHub Stars badge 用 `[![Star](https://img.shields.io/github/stars/org/repo.svg?style=social&label=Star)]()`
 - GitHub 链接与 Stars badge 仅用于已有实际方法实现的官方仓库；只有 README、图片、项目页面或 coming-soon 声明的占位仓库，按未开源处理，不展示 GitHub 链接或 Stars badge，Links 列填 `-`。
 - 没有 GitHub 的论文 Links 列填 `-`
